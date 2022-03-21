@@ -1,0 +1,452 @@
+Uri: https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap
+File Name: C:\Downloaded Web Sites\samusky.io\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/yesevaone/v18/OpNJno4ck8vc-xYpwWWxpio.ttf
+File Name: C:\Downloaded Web Sites\samusky.io\s\yesevaone\v18\OpNJno4ck8vc-xYpwWWxpio.ttf
+Content Type: font/ttf
+
+Uri: https://mc.yandex.ru/watch/86354876
+File Name: C:\Downloaded Web Sites\samusky.io\watch\86354876
+Content Type: image/gif
+
+Uri: https://samusky.io/
+File Name: C:\Downloaded Web Sites\samusky.io\index.htm
+Content Type: text/html
+
+Uri: https://samusky.io/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\samusky.io\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://samusky.io/assets/css/aos.css
+File Name: C:\Downloaded Web Sites\samusky.io\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://samusky.io/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\samusky.io\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://samusky.io/assets/css/icons.css
+File Name: C:\Downloaded Web Sites\samusky.io\assets\css\icons.css
+Content Type: text/css
+
+Uri: https://samusky.io/assets/css/main.css
+File Name: C:\Downloaded Web Sites\samusky.io\assets\css\main.css
+Content Type: text/css
+
+Uri: https://samusky.io/assets/css/normalize.css
+File Name: C:\Downloaded Web Sites\samusky.io\assets\css\normalize.css
+Content Type: text/css
+
+Uri: https://samusky.io/assets/css/swiper.min.css
+File Name: C:\Downloaded Web Sites\samusky.io\assets\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Black.eot
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Black.eot?
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Black.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Black.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Black.ttf
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Black.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Black.woff
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Black.woff
+Content Type: application/font-woff
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BlackItalic.eot
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BlackItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BlackItalic.eot?
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BlackItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BlackItalic.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BlackItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BlackItalic.ttf
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BlackItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BlackItalic.woff
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BlackItalic.woff
+Content Type: application/font-woff
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Bold.eot
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Bold.eot?
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Bold.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Bold.ttf
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Bold.woff
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BoldItalic.eot
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BoldItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BoldItalic.eot?
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BoldItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BoldItalic.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BoldItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BoldItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BoldItalic.woff
+Content Type: application/font-woff
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Book.eot
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Book.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Book.eot?
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Book-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Book.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Book.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Book.ttf
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Book.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Book.woff
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Book.woff
+Content Type: application/font-woff
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BookItalic.eot
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BookItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BookItalic.eot?
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BookItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BookItalic.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BookItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BookItalic.ttf
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BookItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-BookItalic.woff
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-BookItalic.woff
+Content Type: application/font-woff
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Medium.eot
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Medium.eot?
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Medium.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Medium.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Medium.ttf
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Medium.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-Medium.woff
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-MediumItalic.eot
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-MediumItalic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-MediumItalic.eot?
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-MediumItalic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-MediumItalic.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-MediumItalic.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-MediumItalic.ttf
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-MediumItalic.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://samusky.io/assets/fonts/text-font/CircularStd-MediumItalic.woff
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\text-font\CircularStd-MediumItalic.woff
+Content Type: application/font-woff
+
+Uri: https://samusky.io/assets/fonts/The-Icon-of.eot?w2v7hx
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\The-Icon-of.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samusky.io/assets/fonts/The-Icon-of.svg?w2v7hx
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\The-Icon-of.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/fonts/The-Icon-of.ttf?w2v7hx
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\The-Icon-of.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://samusky.io/assets/fonts/The-Icon-of.woff2?w2v7hx
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\The-Icon-of.woff2
+Content Type: application/font-woff2
+
+Uri: https://samusky.io/assets/fonts/The-Icon-of.woff?w2v7hx
+File Name: C:\Downloaded Web Sites\samusky.io\assets\fonts\The-Icon-of.woff
+Content Type: application/font-woff
+
+Uri: https://samusky.io/assets/img/bg-cubic.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\bg-cubic.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/img/buy.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\buy.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/connect.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\connect.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/favicon.ico
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://samusky.io/assets/img/favicon/android-icon-192x192.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon\android-icon-192x192.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/favicon/apple-icon-114x114.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/favicon/apple-icon-120x120.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/favicon/apple-icon-144x144.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/favicon/apple-icon-152x152.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/favicon/apple-icon-180x180.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/favicon/apple-icon-57x57.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/favicon/apple-icon-60x60.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/favicon/apple-icon-72x72.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/favicon/apple-icon-76x76.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/favicon/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\favicon\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/footer_grid.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\footer_grid.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/icons/001-fire.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\icons\001-fire.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/icons/001-income.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\icons\001-income.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/icons/002-growth.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\icons\002-growth.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/icons/003-product.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\icons\003-product.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/icons/004-distribution.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\icons\004-distribution.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/icons/solana.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\icons\solana.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/img/ill_faq.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\ill_faq.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/img/lines014.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\lines014.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/img/logo.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/logoX.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\logoX.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/pie.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\pie.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/samuDog.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\samuDog.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/img/shape-before-web.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\shape-before-web.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/img/shape-before.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\shape-before.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/img/shpaeboxes.svg
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\shpaeboxes.svg
+Content Type: image/svg+xml
+
+Uri: https://samusky.io/assets/img/stake.png
+File Name: C:\Downloaded Web Sites\samusky.io\assets\img\stake.png
+Content Type: image/png
+
+Uri: https://samusky.io/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/jquery-3.5.0.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\jquery-3.5.0.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/main.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/samusky.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\samusky.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/animation.gsap.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\animation.gsap.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/aos.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\aos.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/charming.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\charming.min.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/countdown.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\countdown.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/debug.addIndicators.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\debug.addIndicators.min.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/jquery.bxslider.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/particles.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\particles.min.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/ScrollMagic.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\ScrollMagic.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/sharer.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\sharer.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/simpleParallax.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\simpleParallax.min.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/sticky.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\sticky.min.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/swiper.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/TweenMax.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\TweenMax.min.js
+Content Type: application/javascript
+
+Uri: https://samusky.io/assets/js/vendor/waypoints.min.js
+File Name: C:\Downloaded Web Sites\samusky.io\assets\js\vendor\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-X8GRFP7QFV
+File Name: C:\Downloaded Web Sites\samusky.io\gtag\js
+Content Type: application/javascript
+
